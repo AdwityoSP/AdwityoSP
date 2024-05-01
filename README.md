@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-😶‍🌫️ Machine Learning Engineer (Soon)<br>🧑‍🚀 Computer Science<br>🌏 Bandung, Indonesia 🇮🇩<br>💡 Code, Maths, Stats<br>🛠️ Python (FastAPI) & Go, SQL (MSSQL, PostgresSQL), NoSQL (Redis, MongoDB)
+😶‍🌫️ Machine Learning Engineer (Soon)<br>🧑‍🚀 Computer Science<br>🌏 Bandung, Indonesia 🇮🇩<br>💡 Code, Maths, Stats<br>🛠️ Python (FastAPI) & Go (Gin), SQL (MSSQL, PostgresSQL), NoSQL (Redis, MongoDB)
 
 
 # 💻 Tech Stack:
